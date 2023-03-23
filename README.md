@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Void-code17
+- 👋 Hi, I’m @abrar-codes
 - 👀 I’m interested in ...Development
-- 🌱 I’m currently learning ...Web development
-- 💞️ I’m looking to collaborate on ...Web Projects
+- 🌱 I’m currently learning ...exploring around
 - 📫 How to reach me ...Instagram:@brain.void
 
 <!---
